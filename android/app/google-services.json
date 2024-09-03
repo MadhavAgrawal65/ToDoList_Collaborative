@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "547111368215",
+    "project_id": "todolistteam-de27a",
+    "storage_bucket": "todolistteam-de27a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547111368215:android:d5000b70bc744a70aa4e52",
+        "android_client_info": {
+          "package_name": "com.example.todolist_team"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtSb88OtaBjQl7tCZtuYjpDz2a_2vast8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547111368215:android:0ffe3225a492d785aa4e52",
+        "android_client_info": {
+          "package_name": "com.todolistcollaborative.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtSb88OtaBjQl7tCZtuYjpDz2a_2vast8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

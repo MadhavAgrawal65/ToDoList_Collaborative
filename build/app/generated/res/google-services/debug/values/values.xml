@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">547111368215</string>
+    <string name="google_api_key" translatable="false">AIzaSyAtSb88OtaBjQl7tCZtuYjpDz2a_2vast8</string>
+    <string name="google_app_id" translatable="false">1:547111368215:android:d5000b70bc744a70aa4e52</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAtSb88OtaBjQl7tCZtuYjpDz2a_2vast8</string>
+    <string name="google_storage_bucket" translatable="false">todolistteam-de27a.appspot.com</string>
+    <string name="project_id" translatable="false">todolistteam-de27a</string>
+</resources>
